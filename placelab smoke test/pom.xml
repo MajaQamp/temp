@@ -114,9 +114,9 @@
                     <systemPropertyVariables>
                                                 <host>https://demo.placelab.com/</host>
                         <homepage>https://demo.placelab.com/dashboard/traffic</homepage>
-                        <username>mujanovic.maja@gmail.com</username>
-                        <password>Mamujama44!</password>
-                        <user>Maja Mujanovic</user>
+                        <username>email</username>
+                        <password>password</password>
+                        <user>Maja Mujanović</user>
                     </systemPropertyVariables>
                 </configuration>
             </plugin>
